@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/solasa41/h1/_apis/build/status/cor41.new2?branchName=master)](https://dev.azure.com/solasa41/h1/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
